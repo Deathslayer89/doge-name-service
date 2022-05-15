@@ -230,7 +230,7 @@ const App = () => {
   const renderNotConnectedContainer = () => (
     <div className="connect-wallet-container">
       <img
-        src="https://media.giphy.com/media/j1i2gRUOgSSELjRgp3/giphy.gif"
+        src="https://media.giphy.com/media/10ECejNtM1GyRy/giphy.gif"
         alt="doge gif"
       />
       <button
