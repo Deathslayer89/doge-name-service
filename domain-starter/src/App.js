@@ -15,8 +15,8 @@ const override = css`
   margin: 0 auto;
   border-color: red;
 `;
-const TWITTER_HANDLE = "_buildspace";
-const profile = "Lupin_018";
+
+const profile = "Dinesh_018";
 const TWITTER_LINK = `https://twitter.com/${profile}`;
 const tld = ".doge";
 const Contract_address = "0x50573B6C8C7D6D65e623724e30951b3dc6dd4Bb5";
@@ -423,7 +423,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built by @${profile} with @${TWITTER_HANDLE}`}</a>
+          >{`built by @${profile}`}</a>
         </div>
       </div>
     </div>
