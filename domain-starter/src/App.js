@@ -390,7 +390,7 @@ const App = () => {
             <div className="left">
               <p className="title">🐕 doge Name Service</p>
               <p className="subtitle">
-                such wow API on not so much wow blockchain!
+                such wow API !!!
               </p>
             </div>
             <div className="right">
